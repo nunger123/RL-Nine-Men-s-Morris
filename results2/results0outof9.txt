@@ -1,0 +1,9 @@
+CONF OF      : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=1000)
+AGAINST      : Comp(exploration_weight=0.9, prob_educatedFirst=0.5, prob_educatedSecond=0, rollouts=500) won 2 lost 1 of 4 matches
+AGAINST      : Comp(exploration_weight=0.9, prob_educatedFirst=0.5, prob_educatedSecond=0.1, rollouts=2000) won 2 lost 2 of 4 matches
+AGAINST      : Comp(exploration_weight=1, prob_educatedFirst=0, prob_educatedSecond=0.1, rollouts=2000) won 2 lost 1 of 4 matches
+AGAINST      : Comp(exploration_weight=1, prob_educatedFirst=0.2, prob_educatedSecond=0, rollouts=2000) won 0 lost 3 of 4 matches
+AGAINST      : Comp(exploration_weight=1, prob_educatedFirst=0.5, prob_educatedSecond=0, rollouts=2000) won 2 lost 2 of 4 matches
+AGAINST      : Comp(exploration_weight=1.1, prob_educatedFirst=0, prob_educatedSecond=0.1, rollouts=2000) won 2 lost 1 of 4 matches
+AGAINST      : Comp(exploration_weight=1.1, prob_educatedFirst=0.2, prob_educatedSecond=0, rollouts=2000) won 2 lost 1 of 4 matches
+AGAINST      : Comp(exploration_weight=1.1, prob_educatedFirst=0.5, prob_educatedSecond=0.1, rollouts=2000) won 1 lost 3 of 4 matches
