@@ -1,8 +1,7 @@
 """
+Source for large part of MCTS implementation:
 A minimal implementation of Monte Carlo tree search (MCTS) in Python 3
-Luke Harold Miles, July 2019, Public Domain Dedication
-See also https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
-https://gist.github.com/qpwo/c538c6f73727e254fdc7fab81024f6e1
+Luke Harold Miles, July 2019, Public Domain Dedication, https://gist.github.com/qpwo/c538c6f73727e254fdc7fab81024f6e1
 """
 from abc import ABC, abstractmethod
 from collections import defaultdict
