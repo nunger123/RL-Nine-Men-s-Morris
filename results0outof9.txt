@@ -1,0 +1,8 @@
+START CONF   : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=500)
+START CONF   : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=500)
+START CONF   : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=500)
+START CONF   : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=500)
+START CONF   : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=500)
+START CONF   : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=500)
+START CONF   : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=500)
+START CONF   : Comp(exploration_weight=0.9, prob_educatedFirst=0, prob_educatedSecond=0, rollouts=500)

@@ -72,5 +72,5 @@ else:
         else:
             if not winnerfile == None:
                 with open(winnerfile, 'a', encoding="utf-8") as f:
-                    f.write('└―WON AGAINST: '+opp.get_details()+' won '+str(chefwins)+' to '+str(oppwins)+'\n')
+                    f.write('--WON AGAINST: '+opp.get_details()+' won '+str(chefwins)+' to '+str(oppwins)+'\n')
         

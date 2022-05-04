@@ -1,0 +1,7 @@
+START CONF   : Comp(exploration_weight=1, prob_educatedFirst=0.2, prob_educatedSecond=0, rollouts=500)
+--WON AGAINST: Comp(exploration_weight=1, prob_educatedFirst=0.2, prob_educatedSecond=0, rollouts=1000) won 5 to 3
+NEW BEST     : Comp(exploration_weight=1, prob_educatedFirst=0.2, prob_educatedSecond=0, rollouts=2000) won 5 to 2
+--WON AGAINST: Comp(exploration_weight=1, prob_educatedFirst=0.2, prob_educatedSecond=0.1, rollouts=500) won 7 to 1
+--WON AGAINST: Comp(exploration_weight=1, prob_educatedFirst=0.2, prob_educatedSecond=0.1, rollouts=1000) won 5 to 3
+--WON AGAINST: Comp(exploration_weight=1, prob_educatedFirst=0.2, prob_educatedSecond=0.1, rollouts=2000) won 4 to 3
+--WON AGAINST: Comp(exploration_weight=1, prob_educatedFirst=0.5, prob_educatedSecond=0, rollouts=500) won 7 to 1

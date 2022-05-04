@@ -1,0 +1,89 @@
+Sender: LSF System <lsfadmin@eu-c7-114-10>
+Subject: Job 214826543: <python LINEAR_STARTER.py 1 9> in cluster <euler> Done
+
+Job <python LINEAR_STARTER.py 1 9> was submitted from host <eu-login-45> by user <ckotthof> in cluster <euler> at Wed Apr 20 23:15:29 2022
+Job was executed on host(s) <eu-c7-114-10>, in queue <normal.120h>, as user <ckotthof> in cluster <euler> at Wed Apr 20 23:15:44 2022
+</cluster/home/ckotthof> was used as the home directory.
+</cluster/home/ckotthof/Nine_Mens_Morris> was used as the working directory.
+Started at Wed Apr 20 23:15:44 2022
+Terminated at Thu Apr 21 07:32:10 2022
+Results reported at Thu Apr 21 07:32:10 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python LINEAR_STARTER.py 1 9
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   29718.89 sec.
+    Max Memory :                                 76607 MB
+    Average Memory :                             17787.06 MB
+    Total Requested Memory :                     65536.00 MB
+    Delta Memory :                               -11071.00 MB
+    Max Swap :                                   14 MB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   29804 sec.
+    Turnaround time :                            29801 sec.
+
+The output (if any) follows:
+
+start 6 current 7 end 12
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---DRAW---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+start 6 current 8 end 12
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+start 6 current 9 end 12
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+start 6 current 10 end 12
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---DRAW---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+start 6 current 11 end 12
+---WHITE (player2) WON---
+---DRAW---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+start 6 current 12 end 12
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---

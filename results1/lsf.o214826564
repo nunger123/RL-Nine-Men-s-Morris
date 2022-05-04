@@ -1,0 +1,85 @@
+Sender: LSF System <lsfadmin@eu-c7-115-01>
+Subject: Job 214826564: <python LINEAR_STARTER.py 8 9> in cluster <euler> Exited
+
+Job <python LINEAR_STARTER.py 8 9> was submitted from host <eu-login-45> by user <ckotthof> in cluster <euler> at Wed Apr 20 23:15:32 2022
+Job was executed on host(s) <eu-c7-115-01>, in queue <normal.120h>, as user <ckotthof> in cluster <euler> at Fri Apr 22 07:25:30 2022
+</cluster/home/ckotthof> was used as the home directory.
+</cluster/home/ckotthof/Nine_Mens_Morris> was used as the working directory.
+Started at Fri Apr 22 07:25:30 2022
+Terminated at Fri Apr 22 16:08:53 2022
+Results reported at Fri Apr 22 16:08:53 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python LINEAR_STARTER.py 8 9
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   31309.97 sec.
+    Max Memory :                                 72872 MB
+    Average Memory :                             17559.01 MB
+    Total Requested Memory :                     65536.00 MB
+    Delta Memory :                               -7336.00 MB
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   31415 sec.
+    Turnaround time :                            147201 sec.
+
+The output (if any) follows:
+
+start 48 current 49 end 54
+---DRAW---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+start 48 current 50 end 54
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+start 48 current 51 end 54
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+start 48 current 52 end 54
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---DRAW---
+---BLACK (player1) WON---
+---DRAW---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+start 48 current 53 end 54
+---DRAW---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+start 48 current 54 end 54
+Traceback (most recent call last):
+  File "LINEAR_STARTER.py", line 48, in <module>
+    opp = ComputerPlayer(exploration_weight=listofconfs[index][0], prob_educatedFirst=listofconfs[index][1], prob_educatedSecond=listofconfs[index][2], rollouts=listofconfs[index][3], showThinking=False)
+IndexError: list index out of range
