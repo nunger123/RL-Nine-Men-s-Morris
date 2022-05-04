@@ -7,6 +7,7 @@ import random
 from tqdm import tqdm
 from nine_mens import NineMensMorris, Agent
 from collections import namedtuple
+"import tensorflow as tf"
 import pandas as pd
 import numpy as np
 
@@ -616,3 +617,4 @@ class Node:
 
 a = MainGame()
 a.play()
+
