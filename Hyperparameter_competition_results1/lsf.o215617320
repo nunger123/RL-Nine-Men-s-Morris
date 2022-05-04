@@ -1,0 +1,75 @@
+Sender: LSF System <lsfadmin@eu-c7-107-04>
+Subject: Job 215617320: <python battleroyalebetweenwinners.py 8 9> in cluster <euler> Done
+
+Job <python battleroyalebetweenwinners.py 8 9> was submitted from host <eu-login-33> by user <ckotthof> in cluster <euler> at Sun Apr 24 23:57:07 2022
+Job was executed on host(s) <eu-c7-107-04>, in queue <normal.120h>, as user <ckotthof> in cluster <euler> at Tue Apr 26 11:01:38 2022
+</cluster/home/ckotthof> was used as the home directory.
+</cluster/home/ckotthof/Nine_Mens_Morris> was used as the working directory.
+Started at Tue Apr 26 11:01:38 2022
+Terminated at Tue Apr 26 22:43:56 2022
+Results reported at Tue Apr 26 22:43:56 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python battleroyalebetweenwinners.py 8 9
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   41000.27 sec.
+    Max Memory :                                 81127 MB
+    Average Memory :                             25949.63 MB
+    Total Requested Memory :                     65536.00 MB
+    Delta Memory :                               -15591.00 MB
+    Max Swap :                                   4009 MB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   42158 sec.
+    Turnaround time :                            168409 sec.
+
+The output (if any) follows:
+
+start 0
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+start 1
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+start 2
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+start 3
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+start 4
+---BLACK (player1) WON---
+---DRAW---
+---WHITE (player2) WON---
+---BLACK (player1) WON---
+start 5
+---BLACK (player1) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---DRAW---
+start 6
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+---WHITE (player2) WON---
+start 7
+---DRAW---
+---BLACK (player1) WON---
+---BLACK (player1) WON---
+---DRAW---
